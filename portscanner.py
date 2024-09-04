@@ -1,3 +1,6 @@
+# This will run like this
+# python or python3 <Your IP> <Statring Port> <Ending Port>
+
 import pyfiglet
 import sys
 import socket
